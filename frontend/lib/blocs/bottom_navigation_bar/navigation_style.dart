@@ -1,0 +1,1 @@
+enum NavigationStyle { standard, floating }
